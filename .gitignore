@@ -1,0 +1,12 @@
+venv/
+__pycache__/
+*.pyc
+.streamlit/secrets.toml
+.copernicusmarine/
+.env
+*.log
+
+models/trained/
+data/temperature_catalogue.json
+data/raw/
+data/processed/
