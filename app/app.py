@@ -6,7 +6,7 @@ import xarray as xr
 # CONFIG
 # --------------------------------------------------
 st.set_page_config(
-    page_title="OceanEmbed 2.0",
+    page_title="Ocean",
     page_icon="🌊",
     layout="wide",
 )
@@ -258,5 +258,5 @@ with b:
 st.divider()
 
 st.caption(
-    "🌊 OceanEmbed 2.0 · Ocean observations · Machine learning · Ocean exploration"
+    "🌊 Ocean · Ocean observations · Machine learning · Ocean exploration"
 )
